@@ -1,0 +1,5 @@
+key for data:
+
+emp = total laborers employed in industry
+j_o = job openings in industry during period
+sep = job seperations in industry during period

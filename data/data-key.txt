@@ -1,3 +1,11 @@
-1) test for correlation between GDP and productivity growth.
-	- forecast GDP with estimate productivity growith 0.8 to 1.4
-		specified by MckEnzie
+mfg_emp   = nonsupervisory employement levels in manufacturing
+mfg_opens = job openings in manufacturing
+mfg_seps  = job seperations in manufacturing
+mfg_labor_adj = difference in openings and seperations for net labor demand.
+mfg_wages = Average wages for labor
+mfg_hours = Average weekly hours for labor
+mfg_labor_cost = avg weekly cost of labor per person
+ppi = Producer Price Index for manufacturing
+prod = Hourly output for manufactring
+mfg_go = Gross Output for manufacturing and the pct of total output
+mfg_va = Value added for manufacturing and pct total of total value added
